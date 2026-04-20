@@ -48,7 +48,7 @@ Available when EC2 instance is running
 
 ### Website Live
 
-![Website]([screenshots/website-live.png](https://github.com/armaankharod-hash/amazon-ec2-website/blob/main/EC2%20SCREENSHOTS/FinalWebsiteDeployed.png))
+![Website](https://github.com/armaankharod-hash/amazon-ec2-website/blob/main/EC2%20SCREENSHOTS/FinalWebsiteDeployed.png)
 
 ---
 
